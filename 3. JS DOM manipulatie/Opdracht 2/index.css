@@ -1,0 +1,11 @@
+#elementList {
+    margin-top: 20px;
+  }
+  
+  .added-element {
+    background-color: lightgray;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
